@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Standard height of list item -->
+    <dimen name="list_item_height">152dp</dimen>
+    <dimen name="image_resolution">120dp</dimen>
+    <dimen name="standard_margin">16dp</dimen>
+</resources>

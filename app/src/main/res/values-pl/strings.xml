@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Przewodnik Wałbrzych</string>
+    <string name="churches">Kościoły</string>
+    <string name="ksiaz_castle">Zamek Książ</string>
+    <string name="most_visited">Znane</string>
+    <string name="nearby_cities">Pobliskie miasta</string>
+    <string name="old_mine">Stara Kopalnia</string>
+    <string name="town_hall">Ratusz</string>
+    <string name="victoria">Galeria Victoria</string>
+    <string name="aqua_zdroj_description">Nowoczesne centrum sportowe z hotelem.</string>
+    <string name="ksiaz_castle_description">Trzeci największy zamek w Polsce.</string>
+    <string name="old_mine_description">Muzeum, galeria i świetne eventy.</string>
+    <string name="victoria_description">Mnóstwo sklepów i kino.</string>
+    <string name="town_hall_description">Idealne miejsce na spędzenie popołudnia.</string>
+    <string name="aniolow">Kościół Aniołów Stróżów</string>
+    <string name="aniolow_description">Największy i najpiękniejszy.</string>
+    <string name="anny">Kościoł św. Anny</string>
+    <string name="anny_description">Najstarszy kościół w Wałbrzychu.</string>
+    <string name="castle_cisy">Zamek Cisy</string>
+    <string name="castle_cisy_description">Ruiny średniowiecznego zamku.</string>
+    <string name="chelmiec_description">Najwyższa góra w mieście.</string>
+    <string name="daisy">Jeziorko Daisy</string>
+    <string name="daisy_description">Jeziorko z własną legendą.</string>
+    <string name="ksiazanski">Park Książański</string>
+    <string name="ksiazanski_description">Zlokalizowany wokoło zamku Książ.</string>
+    <string name="nature">Natura</string>
+    <string name="podwyzszenia">Kościół Podwyższenia Krzyża</string>
+    <string name="podwyzszenia_description">Nowoczesny i pełen ludzi.</string>
+    <string name="sobieski">Park Sobieskiego</string>
+    <string name="sobieski_description">Największy w mieście.</string>
+    <string name="strzegom_description">Zwany \"granitowym sercem Polski\".</string>
+    <string name="swidnica_description">Znana z niesamowitej architektury.</string>
+    <string name="swiebodzice_description">Pełne pięknych miejsc.</string>
+    <string name="wojciecha">Kościół św. Wojciecha</string>
+    <string name="wojciecha_description">Prosty i cichy.</string>
+    <string name="wroclaw_description">Miasto studentów.</string>
+    <string name="zmartwychwstania">Kościół Zmartwychwstania Pańskiego</string>
+    <string name="zmartwychwstania_description">Stworzony w gotyckim stylu.</string>
+    <string name="palmiarnia">Palmiarnia</string>
+    <string name="palmiarnia_description">Miejsce pełne egzotycznych roślin.</string>
+</resources>

@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Tour Guide Walbrzych</string>
+
+    <string name="ksiaz" translatable="false">Książ</string>
+    <string name="podzamcze" translatable="false">Podzamcze</string>
+    <string name="piaskowa_gora" translatable="false">Piaskowa Góra</string>
+    <string name="sobiecin" translatable="false">Sobięcin</string>
+    <string name="bialy_kamien" translatable="false">Biały Kamień</string>
+    <string name="srodmiescie" translatable="false">Śródmieście</string>
+    <string name="nowe_miasto" translatable="false">Nowe Miasto</string>
+    <string name="lubiechow" translatable="false">Lubiechów</string>
+    <string name="szczawienko" translatable="false">Szczawienko</string>
+    <string name="stary_zdroj" translatable="false">Stary Zdrój</string>
+
+    <string name="most_visited">Most Visited</string>
+
+    <string name="ksiaz_castle">Książ Castle</string>
+    <string name="ksiaz_castle_description">Third the biggest castle in Poland.</string>
+    <string name="ksiaz_castle_web" translatable="false">http://www.ksiaz.walbrzych.pl/en/turystyka</string>
+
+    <string name="old_mine">Old Mine Science and Art Centre</string>
+    <string name="old_mine_description">Museum, gallery and amazing events.</string>
+    <string name="old_mine_web" translatable="false">http://www.starakopalnia.pl/strona-glowna/english/</string>
+
+    <string name="aqua_zdroj" translatable="false">Aqua Zdrój</string>
+    <string name="aqua_zdroj_description">Modern sport center with hotel.</string>
+    <string name="aqua_zdroj_web" translatable="false">http://aqua-zdroj.pl/</string>
+
+    <string name="victoria">Victoria Shopping Center</string>
+    <string name="victoria_description">Plentiful of shops and a cinema.</string>
+    <string name="victoria_web" translatable="false">http://www.galeriavictoria.pl/en/</string>
+
+    <string name="town_hall">Town Hall</string>
+    <string name="town_hall_description">Beutiful place to spend your afternoon.</string>
+    <string name="town_hall_web" translatable="false">http://www.um.walbrzych.pl/en"</string>
+
+    <string name="palmiarnia">Palm House</string>
+    <string name="palmiarnia_description">Place full of exotic plants.</string>
+    <string name="palmiarnia_web" translatable="false">http://www.ksiaz.walbrzych.pl/en/turystyka/palmiarnia</string>
+
+    <string name="nearby_cities">Nearby Cities</string>
+
+    <string name="wroclaw" translatable="false">Wrocław</string>
+    <string name="wroclaw_description">The city of students.</string>
+    <string name="wroclaw_distance" translatable="false">75 km</string>
+    <string name="wroclaw_web" translatable="false">http://www.wroclaw.pl/en/index</string>
+
+    <string name="swidnica" translatable="false">Świdnica</string>
+    <string name="swidnica_description">Known for incredible architecture.</string>
+    <string name="swidnica_distance" translatable="false">20 km</string>
+    <string name="swidnica_web" translatable="false">http://swidnica24.pl/</string>
+
+    <string name="strzegom" translatable="false">Strzegom</string>
+    <string name="strzegom_description">Called "granite heart of Poland".</string>
+    <string name="strzegom_distance" translatable="false">30 km</string>
+    <string name="strzegom_web" translatable="false">http://www.strzegom.pl/2004/index.htm</string>
+
+    <string name="swiebodzice" translatable="false">Świebodzice</string>
+    <string name="swiebodzice_description">City full of majestic places.</string>
+    <string name="swiebodzice_distance" translatable="false">10 km</string>
+    <string name="swiebodzice_web" translatable="false">http://www.swiebodzice.pl/index_en.htm</string>
+
+    <string name="nature">Nature</string>
+
+    <string name="sobieski">John III Sobieski\'s Park</string>
+    <string name="sobieski_description">The biggest park in the city.</string>
+
+    <string name="ksiazanski">Książański Park</string>
+    <string name="ksiazanski_description">Natural park around Książ Castle.</string>
+
+    <string name="daisy">Lake Daisy</string>
+    <string name="daisy_description">Unique lake with its own legend.</string>
+
+    <string name="castle_cisy">Castle Cisy</string>
+    <string name="castle_cisy_description">Ruins of a medieval castle.</string>
+
+    <string name="chelmiec" translatable="false">Chełmiec</string>
+    <string name="chelmiec_description">The highest mountain in the Wałbrzych.</string>
+
+    <string name="churches">Churches</string>
+
+    <string name="anny">Church of Saint Anna</string>
+    <string name="anny_description">The oldest church in Wałbrzych.</string>
+
+    <string name="aniolow">Church of Guardian Angels</string>
+    <string name="aniolow_description">The biggest and most majestic.</string>
+
+    <string name="podwyzszenia">Church of Holy Cross</string>
+    <string name="podwyzszenia_description">Modern church and most attended.</string>
+
+    <string name="wojciecha">Church of the Saint Wojciech</string>
+    <string name="wojciecha_description">Calm and simple church.</string>
+
+    <string name="zmartwychwstania">Church of Holy Resurrection</string>
+    <string name="zmartwychwstania_description">Church created in gothic style.</string>
+
+</resources>
